@@ -7,22 +7,24 @@
   height: 80px;
 }
 
-.App-header {
-  background-color: rgb(70, 175, 105);
-  height: 150px;
-  padding: 20px;
-  color: white;
+p {
+  background-color: #82a333;
+  padding:23.55px
 }
 
-.App-title {
-  font-size: 1.5em;
-}
-
-.App-intro {
-  font-size: large;
+button{
+  background-color: #773912;
+  Padding : 10px;
 }
 
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(990deg); }
+}
+@keyframes App-logo2-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(6000deg); }
+}@keyframes App-logo3-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(18000deg); }
 }
